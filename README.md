@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Prakash
+- 👋 Hi, I’m Prakash
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on a project
+- 💞️ I’m looking to collaborate on a project of Fullstack  Webdeveloper
 - 📫 How to reach me 
 Mail: prakashkrbadal3027@gmail.com
 
